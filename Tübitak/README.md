@@ -29,7 +29,7 @@ Bu proje, sadece nesne tespiti yapmakla kalmaz; **vücut sıcaklığı analizi**
 
 3.  Sistemi başlatın:
     ```bash
-    python violence_guard.py
+    python tübitak.py
     ```
 
 ## 🧠 Nasıl Çalışır?
